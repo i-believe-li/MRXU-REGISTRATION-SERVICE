@@ -2,10 +2,5 @@
 .project
 .settings/
 target/
-./target/
-*/.settings/
 *.iml
-*/*.iml
-*/.idea/
 .idea/
-/registration-service.iml
